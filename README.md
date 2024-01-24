@@ -1,5 +1,5 @@
 # Address_book
-An example program from "Projekt Przyszły Programista" course
+An example program from [Projekt Przyszły Programista](https://przyszlyprogramista.pl/) course
 
 # Features
 - User interface in OS terminal

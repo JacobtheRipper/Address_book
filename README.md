@@ -1,2 +1,8 @@
 # Address_book
-Simple from "Projekt Przyszły Programista" course
+Simple program from "Projekt Przyszły Programista" course
+
+# Features
+TODO
+
+# Author
+Jakub Turliński
